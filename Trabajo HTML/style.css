@@ -1,0 +1,22 @@
+
+.Fondo{
+    background-color: darkcyan;
+}
+.Tarjeta{
+    border-style: groove;
+    border-width: 1rem;
+    border-color: gray;
+    background-color: cyan;
+}
+.Texto1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+
+}
+.Texto2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.StImagen{
+    width: 30rem;
+}
